@@ -24,7 +24,7 @@ HiagoRossi/Hia<img align="right" src="https://komarev.com/ghpvc/?username=andrei
   <b>"A gratidão é uma grande aliada do sucesso!"  </b>
 </div><br>
 
-Estudante de análise e desenvolvimento de sistemas e atualmente realizando projetos em backend java e suas ferramentas . Também estudando desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b> e ando ampliando meu conhecimento em Desenvolvimento de software.
+Estudante de análise e desenvolvimento de sistemas e atualmente realizando projetos em backend java e suas ferramentas . Também estudando análise de dados  na linguagem e ando sempre ampliando meu conhecimento em Desenvolvimento de software.
 <br><br>
 
 <div align="center">
