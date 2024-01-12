@@ -24,7 +24,7 @@ HiagoRossi/Hia<img align="right" src="https://komarev.com/ghpvc/?username=andrei
   <b>"A gratidão é uma grande aliada do sucesso!"  </b>
 </div><br>
 
-Estudante de análise e desenvolvimento de sistemas e atualmente realizando projetos em backend java e suas ferramentas . Também estudando desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b> e ando ampliando meu conhecimento em Desenvolvimento Web.
+Estudante de análise e desenvolvimento de sistemas e atualmente realizando projetos em backend java e suas ferramentas . Também estudando desenvolvimento mobile no <b>Android Studio</b> na linguagem <b>Kotlin</b> e ando ampliando meu conhecimento em Desenvolvimento de software.
 <br><br>
 
 <div align="center">
@@ -51,7 +51,7 @@ Estudante de análise e desenvolvimento de sistemas e atualmente realizando proj
 ## ⭐️ Hard Skills
 <!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=andreinaoliveira&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15"  style="max-width: 100%;">
-<div align="right">
+
 
   
 
