@@ -56,6 +56,7 @@ Estudante de análise e desenvolvimento de sistemas e atualmente realizando proj
 # Dev Skills: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="35px">
 
   <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <!-- Python--> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
