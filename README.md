@@ -45,7 +45,6 @@ Estudante de análise e desenvolvimento de sistemas e atualmente realizando proj
 - Amo correr
 - Adoro organização e sou viciado em Tecnologia. 
 - Gosto de ler livros de auto ajuda. 
- 
 
 
 
@@ -57,18 +56,14 @@ Estudante de análise e desenvolvimento de sistemas e atualmente realizando proj
 
   <!-- Java --> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <!-- Python--> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <!-- SpringBoot --> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
-  <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
-  <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- MySql --> <img src=" https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
   <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
   <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
-  <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
+
   
  
 --->
