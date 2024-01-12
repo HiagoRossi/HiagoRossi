@@ -42,8 +42,7 @@ Estudante de análise e desenvolvimento de sistemas e atualmente realizando proj
 
 <b>Além da programação...</b>
 
-- Amo caminhar
-- Gosto de carros.
+- Amo correr
 - Adoro organização e sou viciado em Tecnologia. 
 - Gosto de ler livros de auto ajuda. 
  
