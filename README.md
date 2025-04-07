@@ -1,13 +1,5 @@
 - 👋 Olá, Prazer sou Hiago Rossi
 
-<!---
-HiagoRossi/Hia<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
-<div align="center">
-  <a href="(https://github.com/HiagoRossi)">
-    <img align="center" src="Welcome.png" width="500">
-  </a>
-</div>
-<br>
 
 <div align="center">
   <!-- Work Links -->
