@@ -22,9 +22,7 @@ ENGENHEIRO DE DADOS NA FIRST TECNOLOGIA SANTANDER. .
 <div align="center">
   <table>
     <tr>
-      <td><b>🎓 Análise e desenvolvimento de sistemas</b></td>
-      <td><b>🧪 Desenvolvedor backend</b></td>
-    </tr>
+     </tr>
     <tr>
       </tr>
   </table>
